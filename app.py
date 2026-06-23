@@ -501,7 +501,7 @@ with st.sidebar:
     st.markdown("""
     <div class="footer-text">
         Built with Streamlit & Scikit-Learn<br>
-        © 2024 Customer Segmentation Project
+        © 2026 Customer Segmentation Project
     </div>
     """, unsafe_allow_html=True)
 

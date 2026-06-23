@@ -1,5 +1,12 @@
 # Customer Segmentation and Delivery Policy Recommendation
 
+## Live Demo
+
+Try the deployed application:
+
+**Live App:** https://hazem-amr-ai-powered-customer-segmentation-for-deliv-app-rwz6oz.streamlit.app/
+
+
 ## Project Overview
 
 This project analyzes wholesale customer purchasing behavior to identify hidden customer segments using unsupervised machine learning techniques. The discovered segments are then used to build a supervised classification model capable of assigning new customers to the appropriate segment and recommending a suitable delivery policy.
